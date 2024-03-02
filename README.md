@@ -19,7 +19,7 @@ This repo contains everything I used to learn about hardware, including Verilog,
  - [FPGA MIT Website Project Videos](https://fpga.mit.edu/videos/2020/team01/video.mp4)
  - [HanLab EfficientML](https://hanlab.mit.edu/courses/2023-fall-65940)  - How to make ML models smaller and effiecient for edge deployement.
  - [Bruce R. Land - Cornell](https://people.ece.cornell.edu/land/) - ECE 5760 covers FPGA and SoC design
- - #### UC Berkeley
+ - #### UC Berkeley (In Order of Requirement)
     - [EECS16A, Spring 2023](https://inst.eecs.berkeley.edu/~eecs16a/sp23/) - Designing Information Devices and Systems I
     - [EECS16B, Fall 2023](https://inst.eecs.berkeley.edu/~eecs16b/fa23/) - Designing Information Devices and Systems II
     - [CS61C, Fall 2023](https://inst.eecs.berkeley.edu/~cs61c/fa23/) - Great Ideas in Computer Architecture (Machine Structures)
