@@ -25,9 +25,9 @@ This repo contains everything I used to learn about hardware, including Verilog,
     - [CS61C, Fall 2023](https://inst.eecs.berkeley.edu/~cs61c/fa23/) - Great Ideas in Computer Architecture (Machine Structures)
     - [CS 152/252A, Spring 2024](https://www2.eecs.berkeley.edu/Courses/CS152/) - Computer Architecture and Engineering
     - [EECS 151/251A, Fall 2022](https://inst.eecs.berkeley.edu/~eecs151/fa22/) - Introduction to Digital Design and Integrated Circuits (Recorded Lectures, Notes, Labs, Projects)
-    - [EECS 251B, Spring 2024](https://inst.eecs.berkeley.edu/~eecs251b/sp24/) - Advanced Digital Circuits and Systems
+    - [EECS 251B, Spring 2023](https://inst.eecs.berkeley.edu/~eecs251b/sp23/) - Advanced Digital Circuits and Systems (ChipYard)
     - [EE290-2, Spring 2021](https://inst.eecs.berkeley.edu/~ee290-2/sp21/) - Hardware for Machine Learning
-    
+
  ## Articles & Blogs
 
  - [Connecting an FPGA accelerator to the Raspberry Pi 5](https://www.controlpaths.com/2024/02/18/connecting-litefury-to-raspberrypi5/)
