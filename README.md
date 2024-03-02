@@ -5,10 +5,8 @@ This repo contains everything I used to learn about hardware, including Verilog,
 - [HDLBits](https://hdlbits.01xz.net/) - Verilog Practice
 - [NAND Game](https://nandgame.com/) - Gamified Build Processor from NAND
 - [Nandland](https://www.nandland.com/) - FPGA and Verilog Tutorials
-- [FPGA4Fun](http://www.fpga4fun.com/) - FPGA Projects
+- [FPGA4Fun](http://www.fpga4fun.com/) - FPGA Projects (Different Interfaces Implementation)
 - [FPGA4Student](https://www.fpga4student.com/) - FPGA Projects
-- [FPGA4U](https://www.fpga4u.com/) - FPGA Projects
-- [FPGA4Beginners](https://www.fpga4beginners.com/) - FPGA Projects
 - [MakerChip](https://makerchip.com/) - Online IDE for Verilog
 
 ## FPGA Boards
@@ -20,3 +18,6 @@ This repo contains everything I used to learn about hardware, including Verilog,
  - [FPGA MIT Website Project Videos](https://fpga.mit.edu/videos/2020/team01/video.mp4)
  - [HanLab EfficientML](https://hanlab.mit.edu/courses/2023-fall-65940)  - How to make ML models smaller and effiecient for edge deployement.
  
+ ## Articles
+
+ - [Connecting an FPGA accelerator to the Raspberry Pi 5](https://www.controlpaths.com/2024/02/18/connecting-litefury-to-raspberrypi5/)
