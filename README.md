@@ -32,3 +32,12 @@ This repo contains everything I used to learn about hardware, including Verilog,
 
  - [Connecting an FPGA accelerator to the Raspberry Pi 5](https://www.controlpaths.com/2024/02/18/connecting-litefury-to-raspberrypi5/)
  - [Bruce Land's Hackaday Page](https://hackaday.io/bruceland)
+ - [The Data Bus](https://thedatabus.io/introduction) - FPGA Based ML Acceleration, FPGA Guides
+
+ ## Useful Github Repos
+
+ - [FPGA ML Accelerators](https://github.com/thedatabusdotio/fpga-ml-accelerator)
+
+ ## Documents
+
+ - [Zynq-7000 SoC: Embedded Design Tutorial](https://docs.xilinx.com/v/u/2019.2-English/ug1165-zynq-embedded-design-tutorial)
