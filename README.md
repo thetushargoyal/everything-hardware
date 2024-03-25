@@ -41,3 +41,4 @@ This repo contains everything I used to learn about hardware, including Verilog,
  ## Documents
 
  - [Zynq-7000 SoC: Embedded Design Tutorial](https://docs.xilinx.com/v/u/2019.2-English/ug1165-zynq-embedded-design-tutorial)
+ - [FPGA-based Acceleration for Convolutional Neural Networks on PYNQ-Z2](https://pdfs.semanticscholar.org/bb9e/e09ca32c9bb1b7261bbc581e929603832ce6.pdf)
