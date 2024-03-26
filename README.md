@@ -22,7 +22,8 @@ This repo contains everything I used to learn about hardware, including Verilog,
  - #### UC Berkeley (In Order of Requirement)
     - [EECS16A, Spring 2023](https://inst.eecs.berkeley.edu/~eecs16a/sp23/) - Designing Information Devices and Systems I
     - [EECS16B, Fall 2023](https://inst.eecs.berkeley.edu/~eecs16b/fa23/) - Designing Information Devices and Systems II
-    - [CS61C, Fall 2023](https://inst.eecs.berkeley.edu/~cs61c/fa23/) - Great Ideas in Computer Architecture (Machine Structures)
+    - [CS61C, Fall 2020](https://inst.eecs.berkeley.edu/~cs61c/fa20/) - Great Ideas in Computer Architecture (Machine Structures)
+        - [YouTube Playlist](https://www.youtube.com/playlist?list=PL0j-r-omG7i0-mnsxN5T4UcVS1Di0isqf)
     - [EECS 151/251A, Fall 2022](https://inst.eecs.berkeley.edu/~eecs151/fa22/) - Introduction to Digital Design and Integrated Circuits (Recorded Lectures, Notes, Labs, Projects)
         - [YouTube Playlist](https://www.youtube.com/playlist?list=PLkFD6_40KJIzF1rzQ5Sp97Kv7wHhth7YK)
     - [CS 152/252A, Spring 2023](https://inst.eecs.berkeley.edu/~cs152/sp23/) - Computer Architecture and Engineering
