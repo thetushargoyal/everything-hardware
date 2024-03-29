@@ -25,11 +25,17 @@ This repo contains everything I used to learn about hardware, including Verilog,
     - [CS61C, Fall 2020](https://inst.eecs.berkeley.edu/~cs61c/fa20/) - Great Ideas in Computer Architecture (Machine Structures)
         - [YouTube Playlist](https://www.youtube.com/playlist?list=PL0j-r-omG7i0-mnsxN5T4UcVS1Di0isqf)
     - [EECS 151/251A, Fall 2022](https://inst.eecs.berkeley.edu/~eecs151/fa22/) - Introduction to Digital Design and Integrated Circuits (Recorded Lectures, Notes, Labs, Projects)
+        - Pre-Requisite: CS61C
         - [YouTube Playlist](https://www.youtube.com/playlist?list=PLkFD6_40KJIzF1rzQ5Sp97Kv7wHhth7YK)
     - [CS 152/252A, Spring 2023](https://inst.eecs.berkeley.edu/~cs152/sp23/) - Computer Architecture and Engineering
+        - Pre-Requisite: CS61C
         - [YouTube Playlist](https://youtube.com/playlist?list=PLejZr-wT7ts9nI_a9Kbod0Ze_ipNZzdxh&si=glaL_KHnDvzDDqE_)
-    - [EECS 251B, Spring 2023](https://inst.eecs.berkeley.edu/~eecs251b/sp23/) - Advanced Digital Circuits and Systems (ChipYard)
+    - [EECS 251B, Spring 2022](https://inst.eecs.berkeley.edu/~eecs251b/sp22/) - Advanced Digital Circuits and Systems (ChipYard)
+        - Pre-Requisite: EECS151/251A
+        - [YouTube Playlist](https://www.youtube.com/playlist?list=PLXu4ygwFR79yQLujYP3HVYwzhMlQh1lNP)
     - [EE290-2, Spring 2021](https://inst.eecs.berkeley.edu/~ee290-2/sp21/) - Hardware for Machine Learning
+        - Pre-Requisite: EECS151/251A
+        - [YouTube Playlist](https://www.youtube.com/playlist?list=PLkFD6_40KJIxFWtQg20byt9umBlk6X7By)
 
  ## Articles & Blogs
 
